@@ -5,7 +5,7 @@
            review="review.source.android.com" />
   <remote name="github" fetch="git://github.com/" review="review.cyanogenmod.com" />
   <remote name="plukwa"
-          fetch="gitosis@coruscant.plukwa.net" />
+          fetch="git://coruscant.plukwa.net/" />
 
   <default revision="froyo"
            remote="korg" />
@@ -201,6 +201,6 @@
 
   <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
 
-  <project path="vendor/nlj" name=":git/andro-mods.git" remote="plukwa" />
+  <project path="vendor/nlj" name="git/andro-mods" remote="plukwa" />
 
 </manifest>
