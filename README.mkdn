@@ -22,10 +22,11 @@ All that's left now is to:
 
 and wait patiently till it builds.
 
-please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
-
 Notes
 --------
 
 Most of repositories used in this manifest repo are from either [CyanogenMod](http://www.cyanogenmod.com) or [AOSP](http://source.android.com/)
-I just used a few tricks to make this be better suited for me. If you like it, great! Go, make some donation to awsome folks from CyanogenMod team. Already donated them and still some pennies burning hole in your pocket? Feel free to drop me a message (f.ex at http://github.com/NameLessJedi)
+I just used a few tricks to make this be better suited for me. 
+If you like it, great! Go, make some donation to awsome folks from CyanogenMod team. 
+Already donated them and still some pennies burning hole in your pocket? 
+[Feel free to drop me a message](http://github.com/NameLessJedi)
