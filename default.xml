@@ -7,6 +7,7 @@
   <remote name="plukwa"
       fetch="git://coruscant.plukwa.net/" />
   <remote name="gh" fetch="git://github.com/" />
+  <remote name="ghttp" fetch="http://github.com/" />
 
   <default revision="froyo"
            remote="korg" />
@@ -137,7 +138,7 @@
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
   <project path="kernel-msm" name="CyanogenMod/cm-kernel" remote="github" revision="android-msm-2.6.35" />
-  <project path="kernel-ezterry" name="ezterry/kernel-biff-testing" remote="gh" revision="master" />
+  <project path="kernel-ezterry" name="ezterry/kernel-biff-testing" remote="ghttp" revision="master" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
 
