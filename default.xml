@@ -121,7 +121,7 @@
   <project path="external/zlib" name="platform/external/zlib" />
 
   <!-- project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" /-->
-  <project path="frameworks/base" name="git/framework_base" remote="plukwa" />
+  <project path="frameworks/base" name="git/framework_base" remote="plukwa" revision="master"/>
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="CyanogenMod/android_frameworks_policies_base" remote="github" />
