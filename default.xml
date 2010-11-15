@@ -139,7 +139,7 @@
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
   <project path="kernel-msm" name="CyanogenMod/cm-kernel" remote="github" revision="android-msm-2.6.35" />
-  <project path="kernel-ezterry" name="ezterry/kernel-biff-testing" remote="ghttp" revision="master" />
+  <project path="kernel-ezterry" name="ezterry/kernel-biff-testing" remote="ghttp" revision="radio2708" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
 
