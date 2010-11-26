@@ -28,7 +28,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/htc/common" name="device/htc/common" />
+  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
@@ -105,7 +105,7 @@
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/stlport" name="platform/external/stlport" revision="master" />
-  <project path="external/strace" name="platform/external/strace" />
+  <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" />
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
@@ -134,11 +134,11 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core" remote="github" />
   <project path="hardware/qcom/mm-video" name="CyanogenMod/android_hardware_qcom_mm-video" remote="github" />
-  <project path="hardware/ril" name="platform/hardware/ril" />
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
-  <project path="kernel-msm" name="CyanogenMod/cm-kernel" remote="github" revision="android-msm-2.6.35" />
+  <project path="kernel-msm" name="CyanogenMod/cm-kernel" remote="github" revision="android-msm-2.6.35-unified" />
   <project path="kernel-ezterry" name="ezterry/kernel-biff-testing" remote="ghttp" revision="radio2708" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
