@@ -120,7 +120,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="platform/external/zlib" />
 
-  <project path="frameworks/base" name="git/framework_base" remote="plukwa" revision="master"/>
+  <project path="frameworks/base" name="git/framework_base" remote="plukwa" revision="debug"/>
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="CyanogenMod/android_frameworks_policies_base" remote="github" />
